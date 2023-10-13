@@ -61,10 +61,10 @@ education:
   courses:
     - course: MSc in Data Science
       institution: University Of Glasgow
-      year: 2023
+      year: 2022
     - course: BSc in Software Engneering
       institution: The North University Of China
-      year: 2013
+      year: 2018
 superuser: true
 status:
   icon: ☕️
