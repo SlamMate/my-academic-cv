@@ -1,5 +1,5 @@
 ---
-title: Alice Wu 张麒
+title: Qi Zhang 张麒
 role: Professor of Artificial Intelligence
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
