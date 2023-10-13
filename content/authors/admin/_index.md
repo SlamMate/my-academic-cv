@@ -23,9 +23,9 @@ social:
     link: https://www.linkedin.com/in/%E9%BA%92-%E5%BC%A0-26b258257/
   - display:
       header: false
-    icon_pack: fab
+    icon_pack: fas
     icon: cloud-music
-    link: qqq
+    link: https://music.163.com/#/artist?id=34196998
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
