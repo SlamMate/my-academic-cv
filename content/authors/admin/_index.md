@@ -26,6 +26,16 @@ social:
     icon_pack: fas
     icon: music
     link: https://music.163.com/#/artist?id=34196998
+  - display:
+      header: false
+    icon_pack: fab
+    link: https://www.zhihu.com/people/clown-72-52
+    icon: zhihu
+  - display:
+      header: false
+    link: https://steamcommunity.com/profiles/76561199447085284/
+    icon_pack: fab
+    icon: steam
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
