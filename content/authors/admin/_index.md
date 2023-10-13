@@ -11,7 +11,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: zhangqi_research@163.com
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=kAXAMTEAAAAJ&hl=en
@@ -23,7 +23,7 @@ social:
     link: https://www.linkedin.com/in/%E9%BA%92-%E5%BC%A0-26b258257/
   - display:
       header: false
-    icon_pack: fab
+    icon_pack: far
     icon: music
     link: https://music.163.com/#/artist?id=34196998
   - icon: cv
