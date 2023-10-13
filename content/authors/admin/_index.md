@@ -36,6 +36,11 @@ social:
     link: https://steamcommunity.com/profiles/76561199447085284/
     icon_pack: fab
     icon: steam
+  - display:
+      header: false
+    link: my tag is  BlueYeti#24970
+    icon: battle-net
+    icon_pack: fab
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
