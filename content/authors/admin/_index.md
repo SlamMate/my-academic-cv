@@ -55,26 +55,23 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University Of Glasgow
+    url: https://www.gla.ac.uk/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MSc in Data Science
+      institution: University Of Glasgow
+      year: 2023
+    - course: BSc in Software Engneering
+      institution: The North University Of China
+      year: 2013
 superuser: true
 status:
   icon: ☕️
 last_name: Wu
 highlight_name: true
 first_name: Alice
-email: ""
+email: zhangqi_research@163.com
 ---
 Qi Zhang is an MSc student of data science at the University of Glasgow, with research interests in visual SLAM, deep learning, and multi-object tracking. He is currently working on optimizing monocular vSLAM in dynamic environments for his final year project under the supervision of [Prof. Paul Siebert](https://www.gla.ac.uk/schools/computing/staff/paulsiebert/), alongside collaborating on scene reconstruction and Robot control in dynamic environments with Dr. Zhihao Lin under the supervision of [Dr. Jianglin Lan](https://www.gla.ac.uk/schools/engineering/staff/jianglinlan/). He has previously worked with Dr. Changdi Li of Zhejiang University on solving semantic SLAM problems in dynamic environments and has published as the first author in MST(JCR:q1). Outside of his research work, he leads a colourful life as an amateur electronic music producer (signed by NetEase.com) and an amateur long-distance runner (10km/40min).
 {style="text-align: justify;"}
