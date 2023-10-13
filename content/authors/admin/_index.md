@@ -46,6 +46,11 @@ social:
     icon_pack: fab
     icon: bilibili
     link: https://space.bilibili.com/346351611
+  - display:
+      header: false
+    link: https://www.youtube.com/channel/UCIOLYn8fNTjNl_nMHN4sBDQ
+    icon: youtube
+    icon_pack: fab
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
