@@ -41,6 +41,11 @@ social:
     link: my tag is  BlueYeti#24970
     icon: battle-net
     icon_pack: fab
+  - display:
+      header: false
+    icon_pack: fab
+    icon: bilibili
+    link: https://space.bilibili.com/346351611
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
