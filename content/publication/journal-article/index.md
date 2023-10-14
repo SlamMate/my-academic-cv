@@ -1,4 +1,12 @@
 ---
+title: Semantic SLAM for mobile robots in dynamic environments based on visual
+  camera sensors
+publication_types:
+  - "2"
+authors:
+  - admin
+  - Changdi Li
+publication_short: MST
 abstract: Visual simultaneous localization and mapping (vSLAM) is inherently
   constrained by the static world assumption, which renders success in the
   presence of dynamic objects rather challenging. In this paper, we propose a
@@ -21,36 +29,31 @@ abstract: Visual simultaneous localization and mapping (vSLAM) is inherently
   most SLAM systems in dynamic environments. Moreover, we test our system in
   real-world environments with a monocular camera, demonstrating its robustness
   and universality across diverse settings.
+draft: false
+featured: false
+tags: []
 slides: example
 url_pdf: http://arxiv.org/pdf/1512.04133v1
-publication_types:
-  - "2"
-authors:
-  - admin
-  - Changdi Li
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+  filename: featured.png
+summary: This work focuses on proposing a dynamic vSLAM algorithm for dense
+  object detection. Percentage thresholding and elimination of static boxes
+  within the dynamic box are used to retain static keypoints as much as
+  possible.
+url_dataset: ""
+url_project: ""
+url_source: ""
+url_video: ""
 author_notes:
   - First and corresponding author
   - Second author
-publication: Measurement Science and Technology, Volume 34, Number 8
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum.
-url_dataset: ""
-url_project: ""
-publication_short: ""
-url_source: ""
-url_video: ""
-title: Semantic SLAM for mobile robots in dynamic environments based on visual
-  camera sensors
 doi: " 10.1088/1361-6501/acd1a4"
-featured: false
-tags: []
+publication: Measurement Science and Technology, Volume 34, Number 8
 projects: []
-image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
-  focal_point: ""
-  preview_only: false
-date: 2015-09-01T00:00:00Z
+date: 2023-05-11T01:51:00.000Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00Z
 url_poster: ""
