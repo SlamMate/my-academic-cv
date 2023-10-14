@@ -32,8 +32,7 @@ abstract: Visual simultaneous localization and mapping (vSLAM) is inherently
 draft: false
 featured: true
 tags: []
-slides: example
-url_pdf: https://iopscience.iop.org/article/10.1088/1361-6501/acd1a4/pdf
+url_pdf: "https://iopscience.iop.org/article/10.1088/1361-6501/acd1a4/pdf"
 image:
   caption: ""
   focal_point: ""
@@ -50,7 +49,7 @@ url_video: "https://youtu.be/9g6-N-uYeno?si=-wOTaVoZFuqZdMWX"
 author_notes:
   - First and corresponding author
   - Second author
-doi: " 10.1088/1361-6501/acd1a4"
+doi: "10.1088/1361-6501/acd1a4"
 publication: Measurement Science and Technology, Volume 34, Number 8
 projects: []
 date: 2023-05-11T01:51:00.000Z
