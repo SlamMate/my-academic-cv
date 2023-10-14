@@ -17,7 +17,7 @@ summary: >-
 
   The work is open source on Github and presented on Bili (8000+v).
 url_video: ""
-date: 2023-10-14T03:46:56.053Z
+date: 2022-09-01T03:46:56.053Z
 external_link: ""
 url_slides: ""
 title: CDS-SLAM-Semantic-mapping-in-dynamic-environment
