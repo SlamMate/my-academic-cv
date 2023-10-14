@@ -20,10 +20,13 @@ url_video: ""
 date: 2023-10-14T03:46:56.053Z
 external_link: ""
 url_slides: ""
-title: "CDS-SLAM: SEMANTIC MAPPING"
+title: CDS-SLAM-Semantic-mapping-in-dynamic-environment
 tags:
   - Deep Learning
 links:
+  - url: https://github.com/SlamMate/CDS-SLAM-Semantic-mapping-in-dynamic-environment
+    icon_pack: fab
+    icon: github
   - url: https://youtu.be/OxYHrIgqyJQ?si=KcRyw8GC9f-4Dkgd
     icon_pack: fab
     name: ""
