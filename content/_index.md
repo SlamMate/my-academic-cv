@@ -23,9 +23,17 @@ sections:
           description: 90%
           icon: c
           icon_pack: fas
+        - name: Shell
+          description: 100%
+          icon: ubuntu
+          icon_pack: fab
         - name: Statistics
           description: 100%
           icon: chart-line
+          icon_pack: fas
+        - name: Mathematics
+          description: 80%
+          icon: square-root-variable
           icon_pack: fas
         - name: Beatbox
           description: 100%
