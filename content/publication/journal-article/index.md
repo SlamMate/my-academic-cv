@@ -30,7 +30,7 @@ abstract: Visual simultaneous localization and mapping (vSLAM) is inherently
   real-world environments with a monocular camera, demonstrating its robustness
   and universality across diverse settings.
 draft: false
-featured: false
+featured: true
 tags: []
 slides: example
 url_pdf: http://arxiv.org/pdf/1512.04133v1
