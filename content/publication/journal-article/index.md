@@ -33,7 +33,7 @@ draft: false
 featured: true
 tags: []
 slides: example
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://iopscience.iop.org/article/10.1088/1361-6501/acd1a4/pdf
 image:
   caption: ""
   focal_point: ""
@@ -46,7 +46,7 @@ summary: This work focuses on proposing a dynamic vSLAM algorithm for dense
 url_dataset: ""
 url_project: ""
 url_source: ""
-url_video: ""
+url_video: "https://youtu.be/9g6-N-uYeno?si=-wOTaVoZFuqZdMWX"
 author_notes:
   - First and corresponding author
   - Second author
@@ -55,7 +55,7 @@ publication: Measurement Science and Technology, Volume 34, Number 8
 projects: []
 date: 2023-05-11T01:51:00.000Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00.000Z
+publishDate: 2023-05-11T00:00:00.000Z
 url_poster: ""
-url_code: https://github.com/wowchemy/wowchemy-hugo-themes
+url_code: https://github.com/SlamMate/Universal-outdoor-indoor-multi-camera-vSLAM-based-on-pre-trained-models
 ---
