@@ -59,9 +59,6 @@ organizations:
     url: https://www.gla.ac.uk/
 education:
   courses:
-    - course: Phd in AI
-      institution: University van Amsterdam
-      year: 2023
     - course: MSc in Data Science
       institution: University Of Glasgow
       year: 2022
@@ -76,5 +73,5 @@ highlight_name: true
 first_name: Alice
 email: zhangqi_research@163.com
 ---
-Qi Zhang will go to the University Van Amsterdam to study. Currently, he is an MSc student of data science at the University of Glasgow, with research interests in visual SLAM, deep learning, and multi-object tracking. He is working on optimizing monocular vSLAM in dynamic environments for his final year project under the supervision of [Prof. Paul Siebert](https://www.gla.ac.uk/schools/computing/staff/paulsiebert/), alongside collaborating on scene reconstruction and Robot control in dynamic environments with Dr. Zhihao Lin under the supervision of [Dr. Jianglin Lan](https://www.gla.ac.uk/schools/engineering/staff/jianglinlan/). He has previously worked with Dr. Changdi Li of Zhejiang University on solving semantic SLAM problems in dynamic environments and has published as the first author in MST(JCR:q1). Outside of his research work, he leads a colourful life as an amateur electronic music producer (signed by NetEase.com) and an amateur long-distance runner (10km/40min).
+Qi Zhang is an MSc student of data science at the University of Glasgow, with research interests in visual SLAM, deep learning, and multi-object tracking. He is working on optimizing monocular vSLAM in dynamic environments for his final year project under the supervision of [Prof. Paul Siebert](https://www.gla.ac.uk/schools/computing/staff/paulsiebert/), alongside collaborating on scene reconstruction and Robot control in dynamic environments with Dr. Zhihao Lin under the supervision of [Dr. Jianglin Lan](https://www.gla.ac.uk/schools/engineering/staff/jianglinlan/). He has previously worked with Dr. Changdi Li of Zhejiang University on solving semantic SLAM problems in dynamic environments and has published as the first author in MST(JCR:q1). Outside of his research work, he leads a colourful life as an amateur electronic music producer (signed by NetEase.com) and an amateur long-distance runner (10km/40min).
 {style="text-align: justify;"}
