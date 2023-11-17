@@ -23,16 +23,6 @@ social:
     link: https://www.linkedin.com/in/%E9%BA%92-%E5%BC%A0-26b258257/
   - display:
       header: false
-    icon_pack: fas
-    icon: music
-    link: https://music.163.com/#/artist?id=34196998
-  - display:
-      header: false
-    icon_pack: fab
-    link: https://www.zhihu.com/people/clown-72-52
-    icon: zhihu
-  - display:
-      header: false
     link: https://steamcommunity.com/profiles/76561199447085284/
     icon_pack: fab
     icon: steam
@@ -41,11 +31,6 @@ social:
     link: my tag is  BlueYeti#24970
     icon: battle-net
     icon_pack: fab
-  - display:
-      header: false
-    icon_pack: fab
-    icon: bilibili
-    link: https://space.bilibili.com/346351611
   - display:
       header: false
     link: https://www.youtube.com/channel/UCIOLYn8fNTjNl_nMHN4sBDQ
@@ -73,5 +58,5 @@ highlight_name: true
 first_name: Alice
 email: zhangqi_research@163.com
 ---
-Qi Zhang is an MSc student of data science at the University of Glasgow, with research interests in visual SLAM, deep learning, and multi-object tracking. He is working on optimizing monocular vSLAM in dynamic environments for his final year project under the supervision of [Prof. Paul Siebert](https://www.gla.ac.uk/schools/computing/staff/paulsiebert/), alongside collaborating on scene reconstruction and Robot control in dynamic environments with Dr. Zhihao Lin under the supervision of [Dr. Jianglin Lan](https://www.gla.ac.uk/schools/engineering/staff/jianglinlan/). He has previously worked with Dr. Changdi Li of Zhejiang University on solving semantic SLAM problems in dynamic environments and has published as the first author in MST(JCR:q1). Outside of his research work, he leads a colourful life as an amateur electronic music producer (signed by NetEase.com) and an amateur long-distance runner (10km/40min).
+Qi Zhang is an MSc student of data science at the University of Glasgow, with research interests in visual SLAM, deep learning, and multi-object tracking. He is working on optimizing monocular vSLAM in dynamic environments for his final year project under the supervision of [Prof. Paul Siebert](https://www.gla.ac.uk/schools/computing/staff/paulsiebert/), alongside collaborating on scene reconstruction and Robot control in dynamic environments with Dr. Zhihao Lin under the supervision of [Dr. Jianglin Lan](https://www.gla.ac.uk/schools/engineering/staff/jianglinlan/). He has previously worked with Dr. Changdi Li of Zhejiang University on solving semantic SLAM problems in dynamic environments and has published as the first author in MST(JCR:q1). Outside of his research work, he is an amateur long-distance runner (10km/40min).
 {style="text-align: justify;"}
