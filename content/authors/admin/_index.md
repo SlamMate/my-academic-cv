@@ -6,7 +6,7 @@ bio: My current work focuses on how to use neural networks for visual SLAM
   problems in real-world environments.
 interests:
   - Visual SLAM
-  - Deep Learning
+  - Indoor Localization
   - Multi-Object Tracking
 social:
   - icon: envelope
