@@ -36,9 +36,6 @@ social:
     link: https://www.youtube.com/channel/UCIOLYn8fNTjNl_nMHN4sBDQ
     icon: youtube
     icon_pack: fab
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
 organizations:
   - name: University Of Glasgow
     url: https://www.gla.ac.uk/
@@ -47,9 +44,6 @@ education:
     - course: MSc in Data Science
       institution: University Of Glasgow
       year: 2022
-    - course: BSc in Software Engneering
-      institution: The North University Of China
-      year: 2018
 superuser: true
 status:
   icon: ☕️
