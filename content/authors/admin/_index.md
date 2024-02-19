@@ -1,6 +1,6 @@
 ---
 title: Qi Zhang 张麒
-role: Msc student in Data science
+role: Phd candidate in Computer Vision
 avatar_filename: avatar.jpg
 bio: My current work focuses on how to use neural networks for visual SLAM
   problems in real-world environments.
@@ -39,6 +39,8 @@ social:
 organizations:
   - name: University Of Glasgow
     url: https://www.gla.ac.uk/
+  - name: University Of Amsterdam
+    url: https://www.uva.nl/en
 education:
   courses:
     - course: MSc in Data Science
@@ -52,5 +54,5 @@ highlight_name: true
 first_name: Alice
 email: zhangqi_research@163.com
 ---
-Qi Zhang is an MSc student of data science at the University of Glasgow, with research interests in visual SLAM, deep learning, and multi-object tracking. He is working on optimizing monocular vSLAM in dynamic environments for his final year project under the supervision of [Prof. Paul Siebert](https://www.gla.ac.uk/schools/computing/staff/paulsiebert/), alongside collaborating on the Camera-Assisted Algorithm for Autonomous Exploration Aiding the Visually Impaired in dynamic environments with Dr. Zhihao Lin and Dr. Zhen Tian under the supervision of [Dr. Jianglin Lan](https://www.gla.ac.uk/schools/engineering/staff/jianglinlan/)in Glasgow. He has previously worked on solving semantic SLAM problems in dynamic environments and has published as the first author in MST(JCR:q1). Outside his research work, he is an outstanding beatbox performer and an amateur long-distance runner (10km/40min).
+Qi Zhang is a Phd candidates in Computer Vision at the University of Amsterdam, with research interests in visual SLAM, deep learning, and multi-object tracking. During the master's studies at the University of Glasgow, he is working on optimizing monocular vSLAM in dynamic environments for his final year project under the supervision of [Prof. Paul Siebert](https://www.gla.ac.uk/schools/computing/staff/paulsiebert/), alongside collaborating on the Camera-Assisted Algorithm for Autonomous Exploration Aiding the Visually Impaired in dynamic environments with Dr. Zhihao Lin and Dr. Zhen Tian under the supervision of [Dr. Jianglin Lan](https://www.gla.ac.uk/schools/engineering/staff/jianglinlan/)in Glasgow. He has previously worked on solving semantic SLAM problems in dynamic environments and has published as the first author in MST(JCR:q1). Outside his research work, he is an outstanding beatbox performer and an amateur long-distance runner (10km/40min).
 {style="text-align: justify;"}
