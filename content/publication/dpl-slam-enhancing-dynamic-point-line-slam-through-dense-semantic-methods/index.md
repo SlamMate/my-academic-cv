@@ -8,7 +8,8 @@ authors:
   - Zhen Tian
   - Peizhuo Yu
   - Jianglin Lan
-publication: IEEE sensors 2024
+publication: IEEE Sensors Journal
+publication_short: IEEE Sensors Journal
 abstract: The traditional visual Simultaneous Localization and Mapping (SLAM)
   systems rely on the static-world assumption and cannot handle dynamic objects.
   This paper presents a novel SLAM system, Semantic Point and Line Features SLAM
