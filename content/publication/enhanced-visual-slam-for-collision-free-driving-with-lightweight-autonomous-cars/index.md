@@ -29,9 +29,9 @@ abstract: "The paper presents a vision-based obstacle avoidance strategy for
   algorithms in achieving more stable and shorter trajectories across multiple
   simulated scenes."
 draft: false
-featured: false
+featured: true
 image:
-  filename: featured
+  filename: sensors-24-06258-g005.webp
   focal_point: Smart
   preview_only: false
 date: 2024-10-01T05:58:43.838Z
