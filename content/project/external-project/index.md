@@ -12,7 +12,7 @@ links:
 image:
   caption: Photo by Toa Heftiba on Unsplash
   focal_point: Smart
-  filename: 1726992449024.jpeg
+  filename: featured.jpg
 ---
 The ICRA conference is celebrating its  anniversary in Rotterdam in September 2024, with as highlight the Happy Birthday ICRA Party at the iconic Holland America Line Cruise Terminal. One month later the IROS conference will take place, which will include the Earth Rover Challenge. In this challenge open-world autonomous navigation models are studied truly open-world settings.
 
