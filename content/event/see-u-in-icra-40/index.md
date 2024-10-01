@@ -24,7 +24,7 @@ publishDate: 2024-07-12T10:03:04.788Z
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: 1726992449024.jpeg
   focal_point: Smart
   preview_only: false
 ---
