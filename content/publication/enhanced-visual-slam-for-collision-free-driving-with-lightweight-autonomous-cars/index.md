@@ -12,6 +12,7 @@ authors:
 author_notes:
   - "*for/equal/contribution"
 doi: https://doi.org/10.3390/s24196258
+publication: MDPI Sensors
 abstract: "The paper presents a vision-based obstacle avoidance strategy for
   lightweight self-driving cars that can be run on a CPU-only device using a
   single RGB-D camera. The method consists of two steps: visual perception and
