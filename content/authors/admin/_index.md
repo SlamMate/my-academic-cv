@@ -1,6 +1,4 @@
 ---
-title: Qi Zhang 张麒
-role: Phd candidate in Computer Vision
 avatar_filename: avatar.jpg
 bio: My current work focuses on how to use neural networks for visual SLAM
   problems in real-world environments.
@@ -11,7 +9,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: https://qizhang-research.com/#contact
+    link: q.zhang2@uva.nl
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=kAXAMTEAAAAJ&hl=en
@@ -50,7 +48,9 @@ superuser: true
 status:
   icon: ☕️
 last_name: Wu
+role: Phd candidate in Computer Vision
 highlight_name: true
+title: Qi Zhang 张麒
 first_name: Alice
 email: zhangqi_research@163.com
 ---
