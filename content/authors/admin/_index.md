@@ -1,5 +1,5 @@
 ---
-avatar_filename: avatar.jpg
+avatar_filename: 1000042574.jpg
 bio: My current work focuses on how to use neural networks for visual SLAM
   problems in real-world environments.
 interests:
