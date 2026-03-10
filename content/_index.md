@@ -39,29 +39,6 @@ sections:
           description: 100%
           icon: drum
           icon_pack: fas
-  - block: accomplishments
-    content:
-      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
-      subtitle:
-      # Date format: https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
-      # Accomplishments.
-      #   Add/remove as many `item` blocks below as you like.
-      #   `title`, `organization`, and `date_start` are the required parameters.
-      #   Leave other parameters empty if not required.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - certificate_url: https://www.chinesescholarshipcouncil.com/
-          date_end: ''
-          date_start: '2023-07-15'
-          description: ''
-          organization: China Scholarship Council
-          organization_url: https://www.chinesescholarshipcouncil.com/
-          title: Joint Doctoral Scholarship of the University of Amsterdam and the China Scholarship Council (CSC)
-          url: ''
-    design:
-      columns: '2'
   - block: portfolio
     id: projects
     content:
@@ -122,7 +99,7 @@ sections:
       text: |-
         I welcome exchanges and collaborations with fellow scholars. Undergraduate students are also welcome to work together on projects. Please feel free to contact me.
       # Contact (add or remove contact options as necessary)
-      email: zhangqi_research@163.com
+      email: q.zhang2@uva.nl
       office_hours:
         - '8:00 to 18:00'
       # Automatically link email and phone or display as text?
