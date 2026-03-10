@@ -1,11 +1,11 @@
 ---
+title: Qi Zhang 张麒
+role: Phd candidate in Computer Vision
 avatar_filename: 1000042574.jpg
-bio: My current work focuses on how to use neural networks for visual SLAM
-  problems in real-world environments.
+bio: My current work focuses on how to use neural networks for visual SLAM problems.
 interests:
   - Visual SLAM
-  - Indoor Localization
-  - Multi-Object Tracking
+  - Neural Network
 social:
   - icon: envelope
     icon_pack: fas
@@ -48,23 +48,13 @@ superuser: true
 status:
   icon: ☕️
 last_name: Wu
-role: Phd candidate in Computer Vision
 highlight_name: true
-title: Qi Zhang 张麒
 first_name: Alice
 email: zhangqi_research@163.com
 ---
-Zhang Qi is a first-year PhD student in the computer vision group at UvA, researching the optimization of the tracking module for Monocular Gaussian SLAM under the joint supervision of [Dr. Martin R. Oswald](https://scholar.google.de/citations?user=biytQP8AAAAJ&hl=en), [Dr. Sezer Karaoglu](https://karaoglusezer.github.io/), and [Prof. Theo Gevers](https://scholar.google.com/citations?user=yqsvxQgAAAAJ&hl=en). Occasionally, I do interesting things with [Prof. Arnoud](https://staff.fnwi.uva.nl/a.visser/) about real-world robots.
+Zhang Qi is a third-year PhD student in the computer vision group at UvA, researching the Nerual visual SLAM under the joint supervision of [Dr. Martin R. Oswald](https://scholar.google.de/citations?user=biytQP8AAAAJ&hl=en), [Dr. Sezer Karaoglu](https://karaoglusezer.github.io/), and [Prof. Theo Gevers](https://scholar.google.com/citations?user=yqsvxQgAAAAJ&hl=en). Occasionally, I do interesting things with [Prof. Arnoud](https://staff.fnwi.uva.nl/a.visser/) about data collection and algorithms for smart snack vending carts.
 
-During the master's studies at the University of Glasgow, he is working on optimizing monocular vSLAM in dynamic environments for his final year project under the supervision of [Prof. Paul Siebert](https://www.gla.ac.uk/schools/computing/staff/paulsiebert/), alongside collaborating on the Camera-Assisted Algorithm for Autonomous Exploration Aiding the Visually Impaired in dynamic environments with Dr. Zhihao Lin and Dr. Zhen Tian under the supervision of [Dr. Jianglin Lan ](https://www.gla.ac.uk/schools/engineering/staff/jianglinlan/)in Glasgow. Outside his research work, he is an outstanding beatbox performer and an amateur long-distance runner (10km/40min).
+During the master's studies at the University of Glasgow, he is working on the Camera-Assisted Algorithm for Autonomous Exploration Aiding the Visually Impaired under the supervision of [Dr. Jianglin Lan ](https://www.gla.ac.uk/schools/engineering/staff/jianglinlan/)in Glasgow. 
 
-!!!
-
-More collaborations are needed (vision-based navigation, joint position estimation in dynamic environments, etc.) Please contact me directly at
-
-q.zhang2@uva.nl
-
-!!!
-
-Reviewer for IROS 2024, Measurement
+Outside his research work, he is an outstanding beatbox performer and an amateur long-distance runner (10km/40min).
 {style="text-align: justify;"}
