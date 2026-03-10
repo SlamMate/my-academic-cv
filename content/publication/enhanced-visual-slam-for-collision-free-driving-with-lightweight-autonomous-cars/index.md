@@ -18,7 +18,7 @@ abstract: The proposed algorithm outperforms benchmark algorithms in achieving
 draft: false
 featured: true
 image:
-  filename: sensors-24-06258-g005.webp
+  filename: ""
   focal_point: Smart
   preview_only: false
 date: 2024-10-01T05:58:43.838Z
