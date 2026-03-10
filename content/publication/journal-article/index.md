@@ -28,7 +28,7 @@ url_video: https://youtu.be/9g6-N-uYeno?si=-wOTaVoZFuqZdMWX
 title: Semantic SLAM for mobile robots in dynamic environments based on visual
   camera sensors
 doi: 10.1088/1361-6501/acd1a4
-featured: true
+featured: false
 tags: []
 projects: []
 image:
