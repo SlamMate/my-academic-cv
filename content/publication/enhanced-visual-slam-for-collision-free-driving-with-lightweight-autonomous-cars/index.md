@@ -16,7 +16,7 @@ publication: MDPI Sensors
 abstract: The proposed algorithm outperforms benchmark algorithms in achieving
   more stable and shorter trajectories across multiple simulated scenes.
 draft: false
-featured: true
+featured: false
 image:
   filename: ""
   focal_point: Smart
