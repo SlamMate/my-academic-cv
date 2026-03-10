@@ -22,7 +22,7 @@ abstract: >
 draft: false
 featured: true
 image:
-  filename: 1-s2.0-s0031320324008057-gr1_lrg.jpg
+  filename: ""
   focal_point: Smart
   preview_only: false
 date: 2024-10-01T06:01:59.409Z
