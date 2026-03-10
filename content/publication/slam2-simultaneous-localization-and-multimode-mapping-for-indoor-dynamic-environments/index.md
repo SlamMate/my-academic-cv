@@ -20,7 +20,7 @@ abstract: >
 
   , a novel semantic RGB-D SLAM system that can obtain accurate estimation of the camera pose and the 6DOF pose of other objects, resulting in complete and clean static 3D model mapping in dynamic environments.
 draft: false
-featured: true
+featured: false
 image:
   filename: ""
   focal_point: Smart
