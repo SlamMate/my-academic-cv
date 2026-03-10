@@ -2,7 +2,7 @@
 title: Qi Zhang 张麒
 role: Phd candidate in Computer Vision
 avatar_filename: 1000042574.jpg
-bio: My current work focuses on how to use neural networks for visual SLAM problems.
+bio: My current work focuses on visual SLAM problems.
 interests:
   - Visual SLAM
   - Neural Network
