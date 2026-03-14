@@ -3,7 +3,7 @@ title: "Unblur-SLAM: Dense Neural SLAM for Blurry Inputs"
 publication_types:
   - "0"
 authors: []
-publication: CVPR 2026
+publication: "Accepted by **CVPR 2026**"
 draft: false
 featured: true
 image:
@@ -11,4 +11,5 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2026-03-13T17:27:20.556Z
+url_pdf: "Deblur_SLAM_CVPR2026_Qi_arxiv.pdf"
 ---
