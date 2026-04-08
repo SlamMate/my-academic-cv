@@ -2,6 +2,16 @@
 
 [![Screenshot](./preview.png)](https://wowchemy.com/hugo-themes/)
 
+## Content update workflow
+
+For each new publication, update these items together:
+
+1. Add/update one entry in `content/publication/.../index.md` with structured links (`url_pdf`, `url_code`, `url_project`).
+2. Add one homepage news item in `content/news/<yyyy-mm-topic>/index.md` with title format `[YYYY-MM] ...`.
+3. Optionally add/update one project entry in `content/project/.../index.md` for code/data/demo landing.
+
+A monthly pass over `content/news` keeps the homepage timeline current.
+
 The Hugo **Academic Resumé Template** empowers you to easily create your job-winning online resumé, showcase your academic publications, and create online courses or knowledge bases to grow your audience.
 
 [![Get Started](https://img.shields.io/badge/-Get%20started-ff4655?style=for-the-badge)](https://wowchemy.com/hugo-themes/)

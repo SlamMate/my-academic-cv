@@ -20,4 +20,8 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2024-03-19T15:05:06.323Z
+url_pdf: ""
+url_code: ""
+url_project: ""
+url_source: ""
 ---

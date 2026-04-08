@@ -12,4 +12,7 @@ image:
   preview_only: false
 date: 2026-03-13T17:27:20.556Z
 url_pdf: "Deblur_SLAM_CVPR2026_Qi_arxiv.pdf"
+url_code: ""
+url_project: ""
+url_source: ""
 ---
