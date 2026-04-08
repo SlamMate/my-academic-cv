@@ -1,19 +1,28 @@
 ---
-title: An Earth Rover dataset recorded at the ICRA@40 party
-date: 2016-04-27T00:00:00.000Z
-summary: ""
+title: ICRA@40 Earth Rover Dataset and Code
+date: 2024-09-30T22:00:00.000Z
+summary: Open-world rover dataset collection and vSLAM benchmark resources.
 tags:
   - Demo
-external_link: https://example.org
+  - SLAM
+external_link: ""
 links:
   - url: https://arxiv.org/html/2407.05735v1
     icon_pack: ai
-    icon: ""
+    icon: open-access
+  - url: https://github.com/SlamMate/vSLAM-on-FrodoBots-2K
+    icon_pack: fab
+    icon: github
+  - url: /talk/see-u-in-icra-40/
+    icon_pack: fas
+    icon: link
 image:
   caption: Photo by Toa Heftiba on Unsplash
   focal_point: Smart
   filename: featured.jpg
 ---
-The ICRA conference is celebrating its  anniversary in Rotterdam in September 2024, with as highlight the Happy Birthday ICRA Party at the iconic Holland America Line Cruise Terminal. One month later the IROS conference will take place, which will include the Earth Rover Challenge. In this challenge open-world autonomous navigation models are studied truly open-world settings.
+This project centralizes dataset and code resources from the ICRA@40 Earth Rover data collection effort.
 
-As part of the Earth Rover Challenge several real-world navigation sets in several cities world-wide, like Auckland, Australia and Wuhan, China. The only dataset recorded in the Netherlands is the small village Oudewater. The proposal is to record a dataset with the robot used in the Earth Rover Challenge in Rotterdam, in front of the Holland America Line Cruise Terminal, before the festivities of the Happy Birthday ICRA Party start.
+- Paper: https://arxiv.org/html/2407.05735v1
+- Code: https://github.com/SlamMate/vSLAM-on-FrodoBots-2K
+- Related event page: /talk/see-u-in-icra-40/

@@ -11,65 +11,21 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: features
+  - block: collection
+    id: news
     content:
-      title: Skills
-      items:
-        - name: Python
-          description: 90%
-          icon: python
-          icon_pack: fab
-        - name: C++/C
-          description: 90%
-          icon: c
-          icon_pack: fas
-        - name: Shell
-          description: 100%
-          icon: ubuntu
-          icon_pack: fab
-        - name: Statistics
-          description: 100%
-          icon: chart-line
-          icon_pack: fas
-        - name: Mathematics
-          description: 80%
-          icon: square-root-variable
-          icon_pack: fas
-        - name: Beatbox
-          description: 100%
-          icon: drum
-          icon_pack: fas
-  - block: portfolio
-    id: projects
-    content:
-      title: Projects
+      title: News
+      count: 6
       filters:
         folders:
-          - project
-      # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-      default_button_index: 0
-      # Filter toolbar (optional).
-      # Add or remove as many filters (`filter_button` instances) as you like.
-      # To show all items, set `tag` to "*".
-      # To filter by a specific tag, set `tag` to an existing tag name.
-      # To remove the toolbar, delete the entire `filter_button` block.
-      buttons:
-        - name: All
-          tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
+          - news
     design:
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
-      view: showcase
-      # For Showcase view, flip alternate rows?
-      flip_alt_rows: false
+      columns: '2'
+      view: compact
   - block: collection
     id: featured
     content:
-      title: Featured Publications
+      title: Selected Publications
       filters:
         folders:
           - publication
@@ -91,6 +47,25 @@ sections:
     design:
       columns: '2'
       view: citation
+  - block: portfolio
+    id: projects
+    content:
+      title: Projects & Code
+      filters:
+        folders:
+          - project
+      default_button_index: 0
+      buttons:
+        - name: All
+          tag: '*'
+        - name: SLAM
+          tag: SLAM
+        - name: Demo
+          tag: Demo
+    design:
+      columns: '1'
+      view: showcase
+      flip_alt_rows: false
   - block: contact
     id: contact
     content:
