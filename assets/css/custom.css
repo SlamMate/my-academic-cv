@@ -1,0 +1,26 @@
+.home-section .container,
+.article-container {
+  max-width: 920px;
+}
+
+.home-section {
+  padding: 2.2rem 0;
+}
+
+.home-section h1,
+.home-section h2,
+.article-style h2,
+.article-style h3 {
+  letter-spacing: 0.01em;
+  margin-bottom: 0.8rem;
+}
+
+.article-style p,
+.article-style li {
+  line-height: 1.7;
+}
+
+.article-style ul,
+.article-style ol {
+  margin-bottom: 1rem;
+}

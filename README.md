@@ -2,6 +2,28 @@
 
 [![Screenshot](./preview.png)](https://wowchemy.com/hugo-themes/)
 
+## Local build and preview
+
+This repository uses **Hugo + Wowchemy** for page generation.
+
+```bash
+hugo mod get ./...
+hugo server -D
+```
+
+Production build:
+
+```bash
+hugo --gc --minify
+```
+
+Main CV-related content files:
+
+- Homepage layout: `content/_index.md`
+- CV page: `content/cv.md`
+- Profile and biography: `content/authors/admin/_index.md`
+- Typography override: `assets/css/custom.css`
+
 ## Content update workflow
 
 For each new publication, update these items together:
