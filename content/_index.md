@@ -8,19 +8,19 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Biography
+      title: About
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: collection
     id: news
     content:
-      title: News
-      count: 6
+      title: Recent News
+      count: 5
       filters:
         folders:
           - news
     design:
-      columns: '2'
+      columns: '1'
       view: compact
   - block: collection
     id: featured
@@ -31,52 +31,50 @@ sections:
           - publication
         featured_only: true
     design:
-      columns: '2'
-      view: card
+      columns: '1'
+      view: citation
   - block: collection
+    id: publications
     content:
-      title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
+      title: Publications
       filters:
         folders:
           - publication
         exclude_featured: true
     design:
-      columns: '2'
+      columns: '1'
       view: citation
-  - block: portfolio
+  - block: collection
     id: projects
     content:
-      title: Projects & Code
+      title: Projects
       filters:
         folders:
           - project
-      default_button_index: 0
-      buttons:
-        - name: All
-          tag: '*'
-        - name: SLAM
-          tag: SLAM
-        - name: Demo
-          tag: Demo
     design:
       columns: '1'
-      view: showcase
-      flip_alt_rows: false
+      view: compact
+  - block: collection
+    id: talks
+    content:
+      title: Talks & Events
+      filters:
+        folders:
+          - event
+    design:
+      columns: '1'
+      view: compact
   - block: contact
     id: contact
     content:
       title: Contact
       subtitle:
       text: |-
-        I welcome exchanges and collaborations with fellow scholars. Undergraduate students are also welcome to work together on projects. Please feel free to contact me.
+        I welcome research discussions and collaboration opportunities. Please feel free to reach out by email.
       # Contact (add or remove contact options as necessary)
       email: q.zhang2@uva.nl
       office_hours:
-        - '8:00 to 18:00'
+        - '09:00-18:00'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
