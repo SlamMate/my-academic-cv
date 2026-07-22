@@ -52,7 +52,7 @@ highlight_name: true
 first_name: Alice
 email: zhangqi_research@163.com
 ---
-Zhang Qi is a third-year PhD student in the computer vision group at UvA, researching the Nerual visual SLAM under the joint supervision of [Dr. Martin R. Oswald](https://scholar.google.de/citations?user=biytQP8AAAAJ&hl=en), [Dr. Sezer Karaoglu](https://karaoglusezer.github.io/), and [Prof. Theo Gevers](https://scholar.google.com/citations?user=yqsvxQgAAAAJ&hl=en). Occasionally, I do interesting things with [Prof. Arnoud](https://staff.fnwi.uva.nl/a.visser/) about data collection and algorithms for smart snack vending carts.
+Zhang Qi is a third-year ELLIS PhD student in the computer vision group at UvA and StachnissLab at University Of Bonn, researching the Nerual visual SLAM under the joint supervision of [Dr. Jens Behley](https://www.ipb.uni-bonn.de/people/jens-behley/index.html), [Prof. Cyrill Stachniss](https://www.ipb.uni-bonn.de/people/cyrill-stachniss/index.html), [Dr. Martin R. Oswald](https://scholar.google.de/citations?user=biytQP8AAAAJ&hl=en), [Dr. Sezer Karaoglu](https://karaoglusezer.github.io/), [Prof. Theo Gevers](https://scholar.google.com/citations?user=yqsvxQgAAAAJ&hl=en). Occasionally, I do interesting things with [Prof. Arnoud](https://staff.fnwi.uva.nl/a.visser/) about data collection and algorithms for smart snack vending carts.
 
 During the master's studies at the University of Glasgow, he is working on the Camera-Assisted Algorithm for Autonomous Exploration Aiding the Visually Impaired under the supervision of [Dr. Jianglin Lan ](https://www.gla.ac.uk/schools/engineering/staff/jianglinlan/)in Glasgow. 
 
